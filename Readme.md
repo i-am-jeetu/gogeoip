@@ -39,7 +39,7 @@
  <br>
 Do not use in production as the limit is very low i.e 45  requests/minute
     <br />
-    <a href="HREF:TODOCS"><strong>Explore the docs »</strong></a>
+    <a href="https://godoc.org/github.com/i-am-jeetu/gogeoip"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/i-am-jeetu/gogeoip/issues">Report Bug</a>
