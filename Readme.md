@@ -61,10 +61,6 @@ Do not use in production as the limit is very low i.e 45  requests/minute
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ## Usage 
 There is nothing much more here, apart from this sample code and a bunch of self explanatory functions. 
