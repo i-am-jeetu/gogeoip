@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [contributors-url]: https://github.com/i-am-jeetu/gogeoip/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/i-am-jeetu/gogeoip.svg?style=flat-square
 [forks-url]: https://github.com/i-am-jeetu/gogeoip/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/i-am-jeetu/gogeoip.svg?style=flat-square
 [stars-url]: https://github.com/i-am-jeetu/gogeoip/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/i-am-jeetu/gogeoip/issues
